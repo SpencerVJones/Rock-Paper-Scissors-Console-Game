@@ -3,7 +3,7 @@ Welcome to the Rock Paper Scissors game! This Python script allows you to challe
 
 ## How to Play
 - Run the script.
-- Choose your move:
+- Choose your move: <br>
 Type 1 for Rock <br>
 Type 2 for Paper <br>
 Type 3 for Scissors <br>
