@@ -35,6 +35,7 @@ Welcome to the Rock Paper Scissors game! This Python script allows you to challe
 - **Random Module**: Used to generate random choices for the computer player.
 - **Enum Module**: Utilized to define the choices (Rock, Paper, Scissors) and Quit option as enumerations.
 - **sys Module**: Used to exit the game gracefully when the player chooses to quit.
+- **IDE:** PyCharm
 
 ## Acknowledgements
 - This project was inspired by the timeless game of Rock Paper Scissors.
