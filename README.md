@@ -1,4 +1,8 @@
 # Rock Paper Scissors Game
+  <div align="left">
+	
+![Repo Views](https://visitor-badge.laobi.icu/badge?page_id=SpencerVJones/Rock-Paper-Scissors-Console-Game)
+</div>
 Welcome to the Rock Paper Scissors game! This Python script allows you to challenge the computer in a classic game of Rock Paper Scissors.
 
 ## How to Play
